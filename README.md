@@ -1,7 +1,7 @@
 # smiley-recognition
 
 This is a small project about a machine learning model that can recognize four different kinds of smileys drawn on an 28x28 grid.
-
+![alt text](https://github.com/KonKli/smiley-recognition/blob/main/neutral.png)
 
 # data generation
 
