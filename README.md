@@ -16,4 +16,6 @@ The image data that gets fed to the model later is created by chosing random com
 
 # training the model
 
+The model is a Canovolutional Neural Network and I just experimented with the architecture until it had an accuracy of over 90% on the test data.
+
 # try it yourself
